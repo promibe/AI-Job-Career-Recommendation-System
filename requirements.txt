@@ -1,0 +1,11 @@
+streamlit
+fastapi
+pydantic
+uvicorn
+transformers
+torch
+pandas
+pymupdf
+python-docx
+fuzzywuzzy
+sentence-transformers
