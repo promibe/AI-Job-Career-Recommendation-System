@@ -1,3 +1,6 @@
 AI-Powered-Career_log/
 career-guidance/
 results/
+__pycache__
+.idea
+.ipynb_checkpoints
