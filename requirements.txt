@@ -9,3 +9,4 @@ pymupdf
 python-docx
 fuzzywuzzy
 sentence-transformers
+gdown

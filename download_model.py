@@ -8,4 +8,7 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 file_id = "185uEtDKfV7kYRfGCLL7LYiF5zF1KmoNv"  # replace with your real ID
 url = f"https://drive.google.com/uc?id={file_id}"
 
-gdown.download(url, output_path, quiet=False)
+if os.path.exists(output_path):
+    print("Model already downloaded, skipping download.")
+else:
+    gdown.download(url, output_path, quiet=False)
