@@ -4,4 +4,4 @@ results/
 __pycache__
 .idea
 .ipynb_checkpoints
-models/saved_resume_classifier/
+models/saved_resume_classifier/model.safetensors
