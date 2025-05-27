@@ -1,0 +1,152 @@
+{
+    "ACCOUNTANT": [
+        "Financial Reporting", "Taxation", "Auditing", "SAP", "QuickBooks",
+        "Budget Forecasting", "GAAP"
+    ],
+    "ADVOCATE": [
+        "Legal Research", "Litigation", "Contract Drafting", "Legal Compliance",
+        "Negotiation", "Intellectual Property", "Case Management", "LegalTech Tools",
+        "Regulatory Affairs", "Arbitration", "Cyber Law", "Client Representation",
+        "Legal Writing", "Due Diligence", "Public Speaking"
+    ],
+    "AGRICULTURE": [
+        "Crop Science", "Irrigation Systems", "Sustainable Farming", "Precision Agriculture",
+        "Soil Health Monitoring", "Agricultural Economics", "Remote Sensing", "Agri-Business",
+        "Climate-Smart Agriculture", "Farm Machinery", "Hydroponics", "GIS", "Livestock Management",
+        "Organic Farming", "Agri Data Analytics"
+    ],
+    "APPAREL": [
+        "Fashion Design", "Garment Construction", "Pattern Making", "Textile Selection",
+        "CAD for Fashion", "Trend Forecasting", "Merchandising", "Sustainable Fashion",
+        "Production Planning", "Fit Analysis", "Color Theory", "E-Commerce Platforms",
+        "Illustrator & Photoshop", "Fabric Testing", "Fashion Marketing"
+    ],
+    "ARTS": [
+        "Creative Thinking", "Illustration", "Painting", "3D Modeling", "Animation",
+        "Art Direction", "Art Therapy", "Concept Art", "Adobe Suite", "Sculpting",
+        "Portfolio Development", "Digital Art Tools (e.g., Procreate)", "Exhibition Curation",
+        "NFT & Digital Ownership", "Visual Storytelling"
+    ],
+    "AUTOMOBILE": [
+        "Auto Diagnostics", "EV Maintenance", "Vehicle Dynamics", "Engine Repair",
+        "Hybrid Systems", "Automotive Electronics", "3D CAD", "Safety Compliance",
+        "OBD Tools", "Fleet Management", "Telematics", "Customer Service", "CAN Bus Systems",
+        "Automobile Design", "Vehicle Testing"
+    ],
+    "AVIATION": [
+        "Flight Safety", "Navigation Systems", "Aircraft Maintenance", "Avionics",
+        "Regulatory Compliance (FAA, EASA)", "ATC Communication", "Flight Planning",
+        "Drones/UAV Tech", "Cabin Crew Training", "Jet Engines", "Weather Forecasting",
+        "Emergency Handling", "Flight Simulation", "Aircraft Software Systems",
+        "Human Factors in Aviation"
+    ],
+    "BANKING": [
+        "Risk Management", "Loan Origination", "KYC/AML Compliance", "Retail Banking",
+        "Core Banking Systems", "Investment Products", "RegTech", "Data Privacy",
+        "FinTech Awareness", "Digital Onboarding", "Credit Risk Scoring", "Derivatives",
+        "Corporate Finance", "Wealth Management", "Excel for Finance"
+    ],
+    "BPO": [
+        "Customer Interaction", "Voice Modulation", "CRM Tools (Salesforce, Zoho)", 
+        "Email Etiquette", "Multichannel Support", "Time Management", "Escalation Handling",
+        "Live Chat Systems", "Troubleshooting", "Language Proficiency", "Soft Skills",
+        "Data Entry Accuracy", "Performance Metrics", "Speech Analytics", "Upselling Techniques"
+    ],
+    "BUSINESS-DEVELOPMENT": [
+        "Sales Prospecting", "CRM Management", "Business Intelligence Tools", "Pitch Deck Creation",
+        "Lead Nurturing", "Strategic Planning", "Account-Based Marketing", "Negotiation",
+        "Market Research", "SaaS Selling", "B2B Outreach", "Growth Hacking", "Cold Emailing",
+        "Customer Success", "Partnership Development"
+    ],
+    "CHEF": [
+        "Culinary Techniques", "Food Hygiene & Safety", "Inventory Control", "World Cuisine",
+        "Menu Engineering", "Nutrition Knowledge", "Pastry Skills", "Allergen Awareness",
+        "Food Plating", "Kitchen Costing", "Digital Menu Tools", "Kitchen Management",
+        "Sous Vide", "Fusion Cuisine", "Time Management"
+    ],
+    "CONSTRUCTION": [
+        "Project Scheduling", "Blueprint Reading", "AutoCAD/Revit", "Construction Safety",
+        "Cost Estimation", "Site Supervision", "BIM (Building Info Modeling)", "Civil Works",
+        "Quality Control", "Construction Law", "Concrete Technology", "Green Building",
+        "Scaffolding Standards", "MEP Coordination", "Lean Construction"
+    ],
+    "CONSULTANT": [
+        "Client Onboarding", "Stakeholder Analysis", "Business Process Mapping",
+        "Presentation Skills", "Market Assessment", "Root Cause Analysis",
+        "Strategic Planning", "Change Management", "Analytical Thinking",
+        "Data-Driven Decision Making", "Project Leadership", "Workshop Facilitation",
+        "Proposal Writing", "Competitor Analysis", "Management Frameworks (SWOT, PEST)"
+    ],
+    "DATA ANALYST_SCIENTIST": [
+        "Python","SQL", "Machine Learning", "Deep Learning",
+        "NLP", "Statistics", "Power BI", "Tableau",
+        "Model Deployment", "BigQuery", "Cloud ML (AWS/GCP/Azure)"
+    ],
+    "DESIGNER": [
+        "Adobe Creative Suite", "Figma", "UX Research", "UI Design", "Typography",
+        "Design Systems", "Prototyping", "Wireframing", "Color Theory", "Responsive Design",
+        "HTML/CSS Basics", "Design Thinking", "Microinteractions", "Illustration",
+        "Motion Graphics"
+    ],
+    "DIGITAL-MEDIA": [
+        "Content Strategy", "SEO", "Google Ads", "Facebook Ads", "Instagram Marketing",
+        "Analytics (Google, Meta)", "Email Automation", "Canva", "Copywriting", "Influencer Outreach",
+        "Affiliate Marketing", "Video Marketing", "Marketing Automation Tools",
+        "A/B Testing", "Conversion Rate Optimization"
+    ],
+    "ENGINEERING": [
+        "Matlab", "AutoCAD", "SolidWorks", "Problem Solving", "Project Planning", 
+        "Lean Six Sigma", "Technical Drawing", "3D Printing", "ANSYS/Simulation", "IoT",
+        "Robotics", "PLC Programming", "SCADA", "Thermodynamics", "Renewable Energy Systems"
+    ],
+    "FINANCE": [
+        "Financial Statements", "Ratio Analysis", "Valuation", "Capital Budgeting",
+        "MS Excel (Advanced)", "Risk Management", "Investment Analysis", "Bloomberg Terminal",
+        "Cost Accounting", "Financial Forecasting", "Cryptocurrency Basics", 
+        "FinTech Tools", "Data-Driven Finance", "WealthTech", "Power BI for Finance"
+    ],
+    "FITNESS": [
+        "Strength Training", "Nutrition Planning", "Client Screening", "Anatomy Knowledge",
+        "Functional Training", "Yoga & Mindfulness", "Fitness Assessments", "Injury Prevention",
+        "Rehabilitation", "Online Coaching", "CPR & First Aid", "Fitness Marketing",
+        "Wearable Tech", "Body Composition Analysis", "Exercise Psychology"
+    ],
+    "HEALTHCARE": [
+        "Patient Interaction", "Electronic Health Records (EHR)", "Basic Life Support",
+        "Clinical Procedures", "Telemedicine", "Infection Control", "Medical Billing",
+        "Pharmaceutical Knowledge", "Healthcare Compliance", "HIPAA", "Diagnostics",
+        "Mental Health First Aid", "Mobile Health Apps", "Healthcare Analytics",
+        "EMR Systems (e.g., Epic, Cerner)"
+    ],
+    "HR": [
+        "Recruitment", "Performance Appraisal", "Payroll Systems", "HRIS (Workday, BambooHR)",
+        "Labor Law", "Conflict Resolution", "Employee Engagement", "Training & Development",
+        "Diversity & Inclusion", "Compensation Strategy", "Succession Planning",
+        "HR Analytics", "Interviewing Skills", "Onboarding Processes", "Remote Work Policy"
+    ],
+    "INFORMATION-TECHNOLOGY": [
+        "Python", "JavaScript", "Cloud Platforms (AWS, Azure)", "Cybersecurity",
+        "DevOps Tools", "Containerization (Docker, Kubernetes)", "Networking",
+        "Database Systems", "Agile Development", "Version Control (Git)", "REST APIs",
+        "CI/CD Pipelines", "Linux", "Monitoring Tools", "AI/ML Integration"
+    ],
+    "PUBLIC-RELATIONS": [
+        "Press Release Writing", "Media Relations", "Event Coordination", "Speech Writing",
+        "Influencer Management", "Crisis Communication", "Reputation Management",
+        "Digital PR", "Brand Storytelling", "Campaign Planning", "Internal Communication",
+        "Content Strategy", "Social Listening Tools", "Analytics Reporting", "Public Speaking"
+    ],
+    "SALES": [
+        "Cold Calling", "Sales Funnel Management", "CRM Tools", "Negotiation",
+        "Lead Scoring", "B2B Sales", "Closing Techniques", "Objection Handling",
+        "Presentation Skills", "Email Campaigns", "SaaS Sales", "Target Setting",
+        "Market Intelligence", "Revenue Forecasting", "Sales Automation"
+    ],
+    "TEACHER": [
+        "Lesson Planning", "Subject Expertise", "Curriculum Design", "Classroom Tech Tools",
+        "Online Teaching Platforms", "Assessment Design", "Student Engagement",
+        "Learning Management Systems", "Differentiated Instruction", "Communication Skills",
+        "Pedagogical Strategies", "Gamification", "Inclusive Teaching", "Educational Psychology",
+        "Parent-Teacher Communication"
+    ]
+}

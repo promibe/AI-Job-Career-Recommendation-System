@@ -1,0 +1,552 @@
+{
+  "ACCOUNTANT": [
+    {
+      "title": "Introduction to Financial Accounting",
+      "url": "https://www.coursera.org/learn/wharton-accounting",
+      "description": "Learn the basics of financial accounting including how to prepare and analyze financial statements."
+    },
+    {
+      "title": "Accounting Fundamentals",
+      "url": "https://www.udemy.com/course/accounting-fundamentals/",
+      "description": "A foundational course covering key accounting principles and bookkeeping techniques."
+    },
+    {
+      "title": "CPA Exam Preparation: Financial Accounting",
+      "url": "https://www.udemy.com/course/cpa-financial-accounting/",
+      "description": "Focused preparation for the CPA exam with emphasis on financial accounting topics."
+    },
+    {
+      "title": "Excel Skills for Accounting",
+      "url": "https://www.linkedin.com/learning/excel-for-accounting",
+      "description": "Master Excel tools and formulas essential for accounting and financial data analysis."
+    }
+  ],
+  "ADVOCATE": [
+    {
+      "title": "International Criminal Law",
+      "url": "https://www.coursera.org/learn/international-criminal-law",
+      "description": "Explore legal frameworks and cases in international criminal law."
+    },
+    {
+      "title": "Legal Research and Writing",
+      "url": "https://www.udemy.com/course/legal-research-and-writing/",
+      "description": "Develop skills in legal research methodologies and effective legal writing."
+    },
+    {
+      "title": "Contract Law: From Trust to Promise to Contract",
+      "url": "https://www.coursera.org/learn/contract-law",
+      "description": "Understand the essentials of contract law including formation, enforcement, and breach."
+    },
+    {
+      "title": "Introduction to Intellectual Property Law",
+      "url": "https://www.coursera.org/learn/intellectual-property-law",
+      "description": "Learn about copyrights, patents, trademarks, and IP protection strategies."
+    }
+  ],
+  "AGRICULTURE": [
+    {
+      "title": "Agricultural Biotechnology",
+      "url": "https://www.coursera.org/learn/agricultural-biotechnology",
+      "description": "Study biotechnological advances and applications in modern agriculture."
+    },
+    {
+      "title": "Sustainable Agricultural Land Management",
+      "url": "https://www.edx.org/course/sustainable-agriculture",
+      "description": "Explore practices for sustainable use and management of agricultural land."
+    },
+    {
+      "title": "Crop Production and Management",
+      "url": "https://www.udemy.com/course/crop-production-and-management/",
+      "description": "Learn techniques for efficient crop cultivation and management."
+    },
+    {
+      "title": "Introduction to Agriculture, Economics and Business",
+      "url": "https://www.coursera.org/learn/agriculture-economics-business",
+      "description": "An overview of agricultural economics and agribusiness fundamentals."
+    }
+  ],
+  "APPAREL": [
+    {
+      "title": "Fashion Design Specialization",
+      "url": "https://www.coursera.org/specializations/fashion-design",
+      "description": "Comprehensive course on fashion design principles, creativity, and industry trends."
+    },
+    {
+      "title": "Sewing and Tailoring Fundamentals",
+      "url": "https://www.udemy.com/course/sewing-for-beginners/",
+      "description": "Basic skills for sewing, tailoring, and garment construction."
+    },
+    {
+      "title": "Textile Fundamentals: Fabrics, Fibers and Yarn",
+      "url": "https://www.udemy.com/course/textile-fabric-fibers-and-yarn-basics/",
+      "description": "Introduction to different textiles, fibers, and yarn types used in apparel."
+    },
+    {
+      "title": "Fashion Marketing",
+      "url": "https://www.coursera.org/learn/fashion-marketing",
+      "description": "Learn marketing strategies specifically tailored for the fashion industry."
+    }
+  ],
+  "ARTS": [
+    {
+      "title": "The Art & Science of Drawing",
+      "url": "https://www.udemy.com/course/the-art-science-of-drawing/",
+      "description": "Techniques and fundamentals of drawing from observation and imagination."
+    },
+    {
+      "title": "Introduction to Graphic Design",
+      "url": "https://www.coursera.org/learn/graphic-design",
+      "description": "Foundations of graphic design including typography, color, and layout."
+    },
+    {
+      "title": "Photography Basics and Beyond",
+      "url": "https://www.coursera.org/specializations/photography-basics",
+      "description": "Comprehensive introduction to photography techniques and digital editing."
+    },
+    {
+      "title": "Creative Writing Specialization",
+      "url": "https://www.coursera.org/specializations/creative-writing",
+      "description": "Explore creative writing genres and develop storytelling skills."
+    }
+  ],
+  "AUTOMOBILE": [
+    {
+      "title": "Automotive Engineering Fundamentals",
+      "url": "https://www.udemy.com/course/automotive-engineering-fundamentals/",
+      "description": "Core concepts in automotive engineering and vehicle systems."
+    },
+    {
+      "title": "Automobile Electrical Systems",
+      "url": "https://www.udemy.com/course/automobile-electrical-systems/",
+      "description": "Understanding electrical systems and diagnostics in modern vehicles."
+    },
+    {
+      "title": "Hybrid Electric Vehicle Technology",
+      "url": "https://www.coursera.org/learn/hybrid-electric-vehicles",
+      "description": "Study the design and operation of hybrid and electric vehicles."
+    },
+    {
+      "title": "Automotive Repair Technician Training",
+      "url": "https://www.udemy.com/course/automotive-repair-course/",
+      "description": "Hands-on training in automotive repair and maintenance techniques."
+    }
+  ],
+  "AVIATION": [
+    {
+      "title": "Introduction to Aviation Management",
+      "url": "https://www.coursera.org/learn/aviation-management",
+      "description": "Overview of management practices in the aviation industry."
+    },
+    {
+      "title": "Drone Pilot Ground School",
+      "url": "https://www.udemy.com/course/drone-pilot-ground-school/",
+      "description": "Training for drone operation and safety regulations."
+    },
+    {
+      "title": "Fundamentals of Flight",
+      "url": "https://www.coursera.org/learn/fundamentals-flight",
+      "description": "Basic principles and physics of flight."
+    },
+    {
+      "title": "Aviation Safety and Security",
+      "url": "https://www.edx.org/course/aviation-safety-security",
+      "description": "Study of safety protocols and security in aviation operations."
+    }
+  ],
+  "BANKING": [
+    {
+      "title": "Banking Fundamentals",
+      "url": "https://www.udemy.com/course/banking-fundamentals/",
+      "description": "Introduction to banking concepts and operations."
+    },
+    {
+      "title": "Commercial Banking & Credit Analyst",
+      "url": "https://www.udemy.com/course/commercial-banking-credit-analyst/",
+      "description": "Skills for credit analysis and commercial banking."
+    },
+    {
+      "title": "Finance for Non-Financial Professionals",
+      "url": "https://www.coursera.org/learn/finance-for-non-finance",
+      "description": "Basic finance concepts for those without a financial background."
+    },
+    {
+      "title": "Risk Management in Banking and Financial Markets",
+      "url": "https://www.coursera.org/learn/risk-management-banking",
+      "description": "Techniques and tools for managing financial risks."
+    }
+  ],
+  "BPO": [
+    {
+      "title": "Customer Service Fundamentals",
+      "url": "https://www.coursera.org/learn/customer-service-fundamentals",
+      "description": "Essential skills for delivering excellent customer service."
+    },
+    {
+      "title": "Call Center Training Basics",
+      "url": "https://www.udemy.com/course/call-center-training-basics/",
+      "description": "Training on call center operations and communication skills."
+    },
+    {
+      "title": "Business Process Outsourcing (BPO) Training",
+      "url": "https://www.udemy.com/course/bpo-training-course/",
+      "description": "Overview of BPO industry and operational processes."
+    },
+    {
+      "title": "Communication Skills for BPO Professionals",
+      "url": "https://www.udemy.com/course/communication-skills-for-bpo/",
+      "description": "Develop communication skills critical for BPO roles."
+    }
+  ],
+  "BUSINESS-DEVELOPMENT": [
+    {
+      "title": "Business Development Foundations",
+      "url": "https://www.linkedin.com/learning/business-development-foundations",
+      "description": "Core principles and strategies for business growth."
+    },
+    {
+      "title": "Sales and Business Development",
+      "url": "https://www.coursera.org/learn/sales-business-development",
+      "description": "Techniques to drive sales and develop business opportunities."
+    },
+    {
+      "title": "Startup Growth Strategies",
+      "url": "https://www.coursera.org/learn/startup-growth-strategies",
+      "description": "Methods to scale and grow startups effectively."
+    },
+    {
+      "title": "Negotiation Skills",
+      "url": "https://www.udemy.com/course/negotiation-skills/",
+      "description": "Tactics and skills for successful negotiation."
+    }
+  ],
+  "CHEF": [
+    {
+      "title": "The Professional Chef",
+      "url": "https://www.udemy.com/course/professional-chef/",
+      "description": "Comprehensive culinary techniques and kitchen management."
+    },
+    {
+      "title": "Baking and Pastry Arts Fundamentals",
+      "url": "https://www.coursera.org/learn/baking-pastry-fundamentals",
+      "description": "Fundamentals of baking and pastry preparation."
+    },
+    {
+      "title": "Food Safety and Hygiene",
+      "url": "https://www.udemy.com/course/food-safety-and-hygiene/",
+      "description": "Essential practices for safe food handling."
+    },
+    {
+      "title": "International Cuisine",
+      "url": "https://www.coursera.org/learn/international-cuisine",
+      "description": "Explore cooking styles and recipes from various cultures."
+    }
+  ],
+  "CONSTRUCTION": [
+    {
+      "title": "Construction Management Fundamentals",
+      "url": "https://www.udemy.com/course/construction-management-fundamentals/",
+      "description": "Basics of managing construction projects effectively."
+    },
+    {
+      "title": "Civil Engineering Basics",
+      "url": "https://www.coursera.org/learn/civil-engineering-basics",
+      "description": "Introduction to civil engineering principles."
+    },
+    {
+      "title": "Construction Safety Training",
+      "url": "https://www.udemy.com/course/construction-safety-training/",
+      "description": "Best practices to maintain safety on construction sites."
+    },
+    {
+      "title": "Project Scheduling and Control",
+      "url": "https://www.coursera.org/learn/project-scheduling-control",
+      "description": "Techniques for scheduling and controlling construction projects."
+    }
+  ],
+  "CONSULTANT": [
+    {
+      "title": "Management Consulting Essential Training",
+      "url": "https://www.linkedin.com/learning/management-consulting-essential-training",
+      "description": "Key skills and methods for effective consulting."
+    },
+    {
+      "title": "Consulting Business Foundations",
+      "url": "https://www.udemy.com/course/consulting-business-foundations/",
+      "description": "Starting and managing a consulting business."
+    },
+    {
+      "title": "Problem Solving for Consultants",
+      "url": "https://www.coursera.org/learn/problem-solving-consultants",
+      "description": "Frameworks and tools for problem-solving in consulting."
+    },
+    {
+      "title": "Communication and Presentation Skills for Consultants",
+      "url": "https://www.udemy.com/course/consulting-presentation-skills/",
+      "description": "Improve communication and client presentation skills."
+    }
+  ],
+  "DATA ANALYST_SCIENTIST": [
+    {
+      "title": "Data Science Specialization",
+      "url": "https://www.coursera.org/specializations/jhu-data-science",
+      "description": "Comprehensive introduction to data science and analysis using R."
+    },
+    {
+      "title": "Python for Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "description": "Learn Python programming for data analysis and ML applications."
+    },
+    {
+      "title": "Data Analysis with Pandas and NumPy",
+      "url": "https://www.udemy.com/course/data-analysis-with-pandas/",
+      "description": "Use Python libraries for data manipulation and analysis."
+    },
+    {
+      "title": "Machine Learning by Stanford University",
+      "url": "https://www.coursera.org/learn/machine-learning",
+      "description": "Introductory course on machine learning algorithms and concepts."
+    }
+  ],
+  "DESIGNER": [
+    {
+      "title": "UI/UX Design Specialization",
+      "url": "https://www.coursera.org/specializations/ui-ux-design",
+      "description": "Design user interfaces and user experiences for digital products."
+    },
+    {
+      "title": "Graphic Design Masterclass",
+      "url": "https://www.udemy.com/course/graphic-design-masterclass/",
+      "description": "Learn graphic design principles and software tools."
+    },
+    {
+      "title": "Adobe Photoshop CC – Essentials Training",
+      "url": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/",
+      "description": "Master Photoshop for creative design projects."
+    },
+    {
+      "title": "Introduction to Typography",
+      "url": "https://www.coursera.org/learn/typography",
+      "description": "Fundamentals of typography for designers."
+    }
+  ],
+  "DIGITAL-MEDIA": [
+    {
+      "title": "Digital Marketing Specialization",
+      "url": "https://www.coursera.org/specializations/digital-marketing",
+      "description": "Learn strategies for marketing across digital channels."
+    },
+    {
+      "title": "Social Media Marketing",
+      "url": "https://www.udemy.com/course/social-media-marketing-masterclass/",
+      "description": "Effective social media marketing tactics."
+    },
+    {
+      "title": "Content Marketing Strategy",
+      "url": "https://www.coursera.org/learn/content-marketing",
+      "description": "Develop and implement content marketing strategies."
+    },
+    {
+      "title": "SEO Training Course",
+      "url": "https://www.udemy.com/course/seo-training-course/",
+      "description": "Optimize websites for better search engine rankings."
+    }
+  ],
+  "ENGINEERING": [
+    {
+      "title": "Introduction to Engineering Mechanics",
+      "url": "https://www.coursera.org/learn/engineering-mechanics",
+      "description": "Basics of mechanics applied in engineering."
+    },
+    {
+      "title": "Electrical Engineering Fundamentals",
+      "url": "https://www.udemy.com/course/electrical-engineering-fundamentals/",
+      "description": "Core electrical engineering concepts and circuits."
+    },
+    {
+      "title": "Mechanical Engineering Basics",
+      "url": "https://www.coursera.org/learn/mechanical-engineering-basics",
+      "description": "Foundational knowledge in mechanical engineering."
+    },
+    {
+      "title": "Introduction to Civil Engineering",
+      "url": "https://www.edx.org/course/civil-engineering-introduction",
+      "description": "Overview of civil engineering principles and applications."
+    }
+  ],
+  "FINANCE": [
+    {
+      "title": "Corporate Finance Essentials",
+      "url": "https://www.coursera.org/learn/corporate-finance-essentials",
+      "description": "Learn the fundamentals of corporate finance."
+    },
+    {
+      "title": "Financial Markets",
+      "url": "https://www.coursera.org/learn/financial-markets-global",
+      "description": "Study the workings of financial markets and instruments."
+    },
+    {
+      "title": "Investment Management",
+      "url": "https://www.edx.org/course/investment-management",
+      "description": "Principles and practices of investment management."
+    },
+    {
+      "title": "Personal Finance Essentials",
+      "url": "https://www.udemy.com/course/personal-finance-essentials/",
+      "description": "Manage personal finances, budgeting, and savings."
+    }
+  ],
+  "FITNESS": [
+    {
+      "title": "Fitness Trainer Certification",
+      "url": "https://www.udemy.com/course/fitness-trainer-certification/",
+      "description": "Comprehensive fitness training and coaching techniques."
+    },
+    {
+      "title": "Yoga for Beginners",
+      "url": "https://www.coursera.org/learn/yoga-beginners",
+      "description": "Introduction to yoga postures and breathing techniques."
+    },
+    {
+      "title": "Nutrition and Wellness",
+      "url": "https://www.coursera.org/learn/nutrition-wellness",
+      "description": "Basics of nutrition and healthy living."
+    },
+    {
+      "title": "Strength Training Fundamentals",
+      "url": "https://www.udemy.com/course/strength-training-fundamentals/",
+      "description": "Learn the principles and methods of strength training."
+    }
+  ],
+  "HEALTHCARE": [
+    {
+      "title": "Introduction to Healthcare Systems",
+      "url": "https://www.coursera.org/learn/healthcare-systems",
+      "description": "Overview of healthcare delivery and systems."
+    },
+    {
+      "title": "Medical Terminology",
+      "url": "https://www.udemy.com/course/medical-terminology-course/",
+      "description": "Learn essential medical terminology."
+    },
+    {
+      "title": "Healthcare Data Analytics",
+      "url": "https://www.coursera.org/learn/healthcare-data-analytics",
+      "description": "Use data analytics to improve healthcare outcomes."
+    },
+    {
+      "title": "Public Health Principles",
+      "url": "https://www.coursera.org/learn/public-health",
+      "description": "Basics of public health and epidemiology."
+    }
+  ],
+  "HR": [
+    {
+      "title": "Human Resource Management",
+      "url": "https://www.coursera.org/learn/human-resource-management",
+      "description": "Core HR functions including recruitment and talent management."
+    },
+    {
+      "title": "Employee Relations and Engagement",
+      "url": "https://www.udemy.com/course/employee-relations-engagement/",
+      "description": "Strategies for effective employee relations."
+    },
+    {
+      "title": "HR Analytics",
+      "url": "https://www.coursera.org/learn/hr-analytics",
+      "description": "Use data to drive HR decisions."
+    },
+    {
+      "title": "Organizational Behavior",
+      "url": "https://www.coursera.org/learn/organizational-behavior",
+      "description": "Study of individual and group behavior in organizations."
+    }
+  ],
+  "INFORMATION-TECHNOLOGY": [
+    {
+      "title": "Introduction to Computer Science",
+      "url": "https://www.coursera.org/learn/cs50",
+      "description": "Harvard’s introduction to computer science."
+    },
+    {
+      "title": "Networking Fundamentals",
+      "url": "https://www.udemy.com/course/networking-fundamentals/",
+      "description": "Basic concepts in computer networking."
+    },
+    {
+      "title": "Cloud Computing Basics",
+      "url": "https://www.coursera.org/learn/cloud-computing-basics",
+      "description": "Introduction to cloud computing technologies."
+    },
+    {
+      "title": "Cybersecurity Essentials",
+      "url": "https://www.udemy.com/course/cybersecurity-essentials/",
+      "description": "Fundamentals of cybersecurity principles."
+    }
+  ],
+  "PUBLIC-RELATIONS": [
+    {
+      "title": "Public Relations Foundations",
+      "url": "https://www.linkedin.com/learning/public-relations-foundations",
+      "description": "Introduction to PR strategies and tactics."
+    },
+    {
+      "title": "Crisis Communication",
+      "url": "https://www.udemy.com/course/crisis-communication/",
+      "description": "Manage communication during organizational crises."
+    },
+    {
+      "title": "Media Relations",
+      "url": "https://www.coursera.org/learn/media-relations",
+      "description": "Develop skills for effective media interaction."
+    },
+    {
+      "title": "Social Media for PR",
+      "url": "https://www.udemy.com/course/social-media-for-pr/",
+      "description": "Using social media channels for public relations."
+    }
+  ],
+  "SALES": [
+    {
+      "title": "Sales Training: Techniques for a Human-Centric Approach",
+      "url": "https://www.udemy.com/course/sales-training-human-centric/",
+      "description": "Learn sales strategies focused on relationship-building."
+    },
+    {
+      "title": "B2B Sales Strategy",
+      "url": "https://www.coursera.org/learn/b2b-sales-strategy",
+      "description": "Techniques for successful B2B selling."
+    },
+    {
+      "title": "Negotiation Skills for Sales",
+      "url": "https://www.udemy.com/course/negotiation-skills-sales/",
+      "description": "Improve negotiation skills tailored to sales."
+    },
+    {
+      "title": "CRM Fundamentals",
+      "url": "https://www.coursera.org/learn/crm-fundamentals",
+      "description": "Understanding customer relationship management."
+    }
+  ],
+  "TEACHER": [
+    {
+      "title": "Foundations of Teaching for Learning",
+      "url": "https://www.coursera.org/specializations/foundations-teaching-learning",
+      "description": "Core principles of teaching and learning."
+    },
+    {
+      "title": "Classroom Management Essentials",
+      "url": "https://www.udemy.com/course/classroom-management-essentials/",
+      "description": "Strategies to manage classrooms effectively."
+    },
+    {
+      "title": "Teaching English as a Second Language",
+      "url": "https://www.coursera.org/learn/tesol",
+      "description": "TESOL methodologies and techniques."
+    },
+    {
+      "title": "Assessment and Evaluation in Education",
+      "url": "https://www.edx.org/course/assessment-evaluation-education",
+      "description": "Design and implement assessments in education."
+    }
+  ]
+}
