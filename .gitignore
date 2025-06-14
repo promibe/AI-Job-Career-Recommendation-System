@@ -5,3 +5,4 @@ __pycache__
 .idea
 .ipynb_checkpoints
 models/saved_resume_classifier/model.safetensors
+training_datasets/AI-powered-career-guidance-project-dataset/data/NOT_A_RESUME
