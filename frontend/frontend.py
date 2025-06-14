@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Resume Career Guidance Tester")
+st.title("Resume Career Job Filter")
 
 uploaded_file = st.file_uploader("Upload your resume (PDF or DOCX)", type=["pdf", "docx"])
 
@@ -15,7 +15,11 @@ if st.button("Submit Resume"):
         try:
             response = requests.post(api_url, files=files)
             if response.status_code == 200:
-                st.success("Resume uploaded successfully, we shall get back to you.")
+                data = response.json()
+                if data['predicted_role'] == 'NOT_A_RESUME':
+                    st.warning("Kindly Upload a Resume, What you Uploaded isn't a Resume")
+                else:
+                    st.success("Resume uploaded successfully, we shall get back to you soon.")
             else:
                 st.error("Upload failed. Please try again.")
         except Exception as e:

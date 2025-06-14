@@ -53,3 +53,6 @@ def process_resume(file_path):
         "skill_gap_percentage": round(100 - percentage_gap, 2),
         "status": status
     }
+
+
+    
